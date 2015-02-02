@@ -30,7 +30,8 @@
     "gulp-util": "~2.2.13",
     "xtend": "~2.1.2",
     "which": "~1.0.5",
-    "byline": "~4.1.1"
+    "byline": "~4.1.1",
+    "resolve": "1.1.0"
   },
   "devDependencies": {
     "gulp": "~3.5.0",
@@ -43,6 +44,6 @@
     "temp": "~0.6.0"
   },
   "optionalDependencies": {
-    "typescript": "~0.9.5"
+    "typescript": "1.1.0-1"
   }
 }
